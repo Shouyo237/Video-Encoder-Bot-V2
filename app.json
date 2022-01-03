@@ -1,7 +1,7 @@
 {
   "name": "ENCODER BOT",
   "description": "Telegram's best Video Encoder Bot",
-  "logo": "https://telegra.ph//file/d9d6d3d5bd820e1b5baae.jpg",
+  "logo": "https://telegra.ph/file/d658357de91fb54621df9.jpg",
   "keywords": [
     "Telegram",
     "best",
@@ -9,8 +9,8 @@
     "Encoder",
     "Bot"
   ],
-  "success_url": "https://t.me/linux_repo",
-  "website": "https://t.me/Discovery_Updates",
+  "success_url": "https://t.me/jetbots",
+  "website": "https://t.me/jetbots",
   "repository": "https://github.com/AbirHasan2005/VideoCompress",
   "env": {
     "ENV": {
